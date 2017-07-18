@@ -22,3 +22,7 @@ Example:
 
 ### pic
 ![image](https://github.com/fengzhihao123/FZHButtonLayout/blob/master/button.png)
+
+### Reference
+
+[Link](https://github.com/Phelthas/Demo_ButtonImageTitleEdgeInsets)
