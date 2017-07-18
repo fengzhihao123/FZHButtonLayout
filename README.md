@@ -4,6 +4,9 @@
 
 ### Use
 
+Tip: `you must set title and image and button's size greater than image's size + title's size + spacing ,before you  call this fuction (这个方法需要在设置图片和文字之后才可以调用，且button的大小要大于 图片大小+文字大小+spacing)`
+
+
 Example:
 
 ```     
