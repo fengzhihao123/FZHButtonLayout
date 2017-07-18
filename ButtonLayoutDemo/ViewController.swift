@@ -21,7 +21,7 @@ class ViewController: UIViewController {
         leftButton.setTitle("right", for: .normal)
         leftButton.setImage(#imageLiteral(resourceName: "start"), for: .normal)
         leftButton.setImagePosition(position: .left, spacing: 5)
-        leftButton.setTitleColor(UIColor.blue, for: .normal)
+        leftButton.setTitleColor(UIColor.black, for: .normal)
         leftButton.backgroundColor = UIColor.red
         view.addSubview(leftButton)
         
@@ -30,7 +30,7 @@ class ViewController: UIViewController {
         rightButton.setTitle("left", for: .normal)
         rightButton.setImage(#imageLiteral(resourceName: "start"), for: .normal)
         rightButton.setImagePosition(position: .right, spacing: 5)
-        rightButton.setTitleColor(UIColor.blue, for: .normal)
+        rightButton.setTitleColor(UIColor.black, for: .normal)
         rightButton.backgroundColor = UIColor.red
         view.addSubview(rightButton)
         
@@ -39,7 +39,7 @@ class ViewController: UIViewController {
         topButton.setTitle("bottom", for: .normal)
         topButton.setImage(#imageLiteral(resourceName: "start"), for: .normal)
         topButton.setImagePosition(position: .top, spacing: 5)
-        topButton.setTitleColor(UIColor.blue, for: .normal)
+        topButton.setTitleColor(UIColor.black, for: .normal)
         topButton.backgroundColor = UIColor.red
         view.addSubview(topButton)
         
@@ -48,7 +48,7 @@ class ViewController: UIViewController {
         bottomButton.setTitle("top", for: .normal)
         bottomButton.setImage(#imageLiteral(resourceName: "start"), for: .normal)
         bottomButton.setImagePosition(position: .bottom, spacing: 5)
-        bottomButton.setTitleColor(UIColor.blue, for: .normal)
+        bottomButton.setTitleColor(UIColor.black, for: .normal)
         bottomButton.backgroundColor = UIColor.red
         view.addSubview(bottomButton)
     }
